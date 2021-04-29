@@ -42,17 +42,13 @@ You may do either of the following:
 ## Screenshots
 Application in action --->
 
-- Information r.e. screenshot
+- Starting page
 
-![image]()
+![image](./public/img/screenshot1.png)
 
-- Information r.e. screenshot
+- App in use
 
-![image]()
-
-- Information r.e. screenshot
-
-![image]()
+![image](./public/img/screenshot2.png)
 
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
