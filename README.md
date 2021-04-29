@@ -5,7 +5,7 @@ A budget tracker application that enables a user to add expenses and deposits to
 ## Contents
 Section | Description
 ------------ | -------------
-[Deployment](#Deployment) | Link to the Deployed Heroku Application
+[Deployment](#Deployment) | Link to the Deployed Application
 [Technologies](#Technologies) | Technologies Used
 [Installation](#Installation) | Installation Information
 [Usage](#Usage) | How to use the application
